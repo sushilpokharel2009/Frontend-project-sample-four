@@ -1,0 +1,57 @@
+.bichar{
+  text-align: center;
+  font-size: 18px;
+}
+.box{
+  padding: 10px;
+  background: grey;
+}
+@media(max-width:480px){
+
+.bichar{
+  text-align: center;
+}
+.box{
+  /*width: 40%;*/
+  /*display: inline;*/
+  /*float: left;*/
+  /*width: 150px;*/
+  /*padding: 5px;*/
+  
+}
+
+
+
+}
+.sign{
+  background: red;
+  padding: 2.5px;
+  color: white;
+}
+.inbox{
+  padding: 10px;
+  background: red;
+}
+.chevron{
+  padding: 2px;
+  background: blue;
+  color: white;
+}
+.news{
+  font-size: 20px;
+}
+.third{
+  font-size: 20px;
+}
+.three{
+  background: orange;
+  padding: 10px;
+}
+.mine{
+  padding:2px;
+  color: white;
+  background: green;
+}
+.edit{
+  font-size: 15px;
+}

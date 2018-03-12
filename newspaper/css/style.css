@@ -1,0 +1,32 @@
+.menu{
+  background: #2372c2;
+  padding: 5px;
+}
+.menu ul li a{
+  color: #FFFFFF;
+  border-right: 1px solid #CCC;
+}
+.menu ul li a:hover{
+  background: #FFFFFF;
+  color: #2372c2;
+}
+.heading{
+  text-align: center;
+  color: #2372c2;
+  border-left: 5px solid #c22323;
+}
+.heading h1{
+  font-size: 50px;
+}
+
+@media (max-width: 800px) {
+
+}
+@media (max-width:480px){
+  .logo{
+    width: 100%;
+  }
+  .menu ul li a{
+    border-right: 0px;
+  }
+}

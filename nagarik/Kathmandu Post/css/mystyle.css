@@ -1,0 +1,60 @@
+.one{
+  background: #404040;
+  padding: 10px;
+}
+.image{
+padding: 10px;
+float: right;
+}
+
+
+@media(max-width:480px){
+.image{
+padding: 10px;
+float: right;
+}
+.imag{
+  float: left;
+  width: 22%;
+}
+
+}
+
+@media(max-width:480px){
+  .kath{
+  margin-top: -30px;
+  }
+}
+.sign{
+  margin-left: 5px;
+}
+.arch{
+  border-left: 2px solid #000;
+  margin-left: 5px;
+}
+.two{
+  padding: 10px;
+  border-bottom: 1px solid grey;
+  /*position: relative;*/
+}
+.third{
+margin-top: -25px;
+  /*position: absolute;*/
+}
+  @media(max-width: 480px){
+    .thr{
+      font-size: 10px;
+      float: left;
+      padding: 0px;
+      width: 130px;
+      height: 20px;
+      margin-left: -5px;
+    }
+  }
+
+.search{
+  margin-top: 30px;
+}
+.three{
+  border-bottom: 2px solid black;
+}

@@ -1,0 +1,110 @@
+.online{
+  font-size: 45px;
+  color: #000099;
+  font-weight: bolder;
+}
+.khabar{
+  font-size: 45px;
+  color: red;
+  font-weight: bolder;
+}
+
+.menu-two ul li a{
+  color: #fff;
+  border-right: 1px solid #fff;
+  padding: 15px 0px;
+}
+
+.two{
+  background: #0c91d3;
+
+}
+
+.three{
+  background: #e8eced;
+}
+.trend{
+  font-size: 20px;
+  font-weight: bolder;
+  color: #0c91d3;
+  border-right: 1px solid #fff;
+}
+
+.menu-two ul li a{
+  color: #0c91d3;
+  border-right: 1px solid #fff;
+
+}
+.menu-two ul li a:hover{
+  color: #e00f2b;
+}
+
+
+.new{
+  text-align: center;
+  background:#ff0000;
+  color: #fff;
+  padding: 5px;
+}
+
+.sambidhan{
+  text-align: center;
+  border-left: 5px solid red;
+  padding: 20px;
+}
+h2{
+  font-size: 55px;
+  text-align: center;
+}
+h2:hover{
+
+color: red;
+text-decoration: underline;
+}
+.KC{
+  text-align: justify;
+}
+.coloring{
+  background: grey;
+}
+.lines{
+  border-top: 5px solid #000;
+  margin-top: 20px;
+  border-bottom: 3px solid #f0f0f5;
+  padding: 20px;
+}
+.all{
+  float: right;
+}
+.news{
+  padding: 20px;
+  border-top: 5px solid #000;
+  border-bottom: 2px solid grey;
+  margin-top: 20px;
+}
+.image1{
+  float: left;
+  margin: 5px 20px 15px 0px;
+  clear:right;
+
+}
+.murder:hover{
+  color: red;
+  text-decoration: none;
+}
+.para{
+    border-bottom: 2px solid grey;
+}
+.image2{
+  border: 1px solid red;
+}
+.header img{
+
+  width: 60px;
+  height: 80px;
+}
+.header h3{
+  float:right;
+
+  font-size: 20px;
+}
